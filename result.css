@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;600;700&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    background-color: #360369;
+    color:white;
+    font-family: 'Inter', sans-serif;
+}
+.main{
+    margin:20px;
+}
+main>h1{
+font-family: Montserrat;
+font-size: 54px;
+font-weight: 700;
+line-height: 66px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.main>p{
+    margin-top:10px;
+}
+.bottom{
+    background-color: white;
+    height: 180px;
+    width:100px;
+}
+.button{
+    border: 2px solid #360369;
+    background-color: #360369;
+    color:white;
+}
+.map{
+    width:200px;
+    height:200px;
+    margin-left:20px;
+}
+.whiteboard{
+    width:200px;
+    height:200px;
+    margin-left:20px;
+    background-color: white; 
+    margin-top:250px;  
+    width: 1190px;
+height: 271px;
+
+    
+}
+.whiteboard>button{
+    border: 2px solid #360369;
+    background-color: #360369;
+    color:white;
+    width:200px;
+    height:50px;
+    margin:20px;
+    font-size: 16px;
+    font-weight: 600;
+}
